@@ -9,39 +9,39 @@ Using this model, BigMart will try to understand the properties of products and 
 
 ### We will handle this problem in a structured way. We will be following the table of content given below.<br>
 
-1). Problem Statement
-2). Hypothesis Generation
-3). Loading Packages and Data
-4). Data Structure and Content
-5). Exploratory Data Analysis
-6). Univariate Analysis
-7). Bivariate Analysis
-8). Missing Value Treatment
-9). Feature Engineering
-10). Encoding Categorical Variables
-11). Label Encoding
-12). One Hot Encoding
-13). PreProcessing Data
-14). Modeling
-15). Linear Regression
-16). Regularized Linear Regression
-17). RandomForest
-18). XGBoost
-19). Summary
+1). Problem Statement                                        
+2). Hypothesis Generation                                                                
+3). Loading Packages and Data                                                               
+4). Data Structure and Content                                                               
+5). Exploratory Data Analysis                                                               
+6). Univariate Analysis                                                               
+7). Bivariate Analysis                                                               
+8). Missing Value Treatment                                                               
+9). Feature Engineering                                                               
+10). Encoding Categorical Variables                                                               
+11). Label Encoding                                                               
+12). One Hot Encoding                                                               
+13). PreProcessing Data                                                               
+14). Modeling                                                               
+15). Linear Regression                                                               
+16). Regularized Linear Regression                                                               
+17). RandomForest                                                               
+18). XGBoost                                                               
+19). Summary                                                               
 
 ### Curriculum For This Project<br>
 
-1). The Business Problem Exploring 
-2). The Dataset 
-3). Exploratory Data Analysis (eda) - Outliers
-4). Exploratory Data Analysis (eda) - Graphs
-5). Converting Categorical To Numerical
-6). Seperating Training And Test Data
-7). Running The Models
-8). Hyper Parameter Tuning XGB And GBR
-9). Standard Scaling 06m Robust Scaling
-10). Final Predictions On The Test Dataset
-11). Saving The Final Model
+1). The Business Problem Exploring                                                                
+2). The Dataset                                                                
+3). Exploratory Data Analysis (eda) - Outliers                                                               
+4). Exploratory Data Analysis (eda) - Graphs                                                               
+5). Converting Categorical To Numerical                                                               
+6). Seperating Training And Test Data                                                               
+7). Running The Models                                                               
+8). Hyper Parameter Tuning XGB And GBR                                                               
+9). Standard Scaling 06m Robust Scaling                                                               
+10). Final Predictions On The Test Dataset                                                               
+11). Saving The Final Model                                                               
 
 ### Link to Download the Dataset<br>
 
